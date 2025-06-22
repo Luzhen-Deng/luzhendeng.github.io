@@ -15,7 +15,7 @@ Before joining Neusoft Medical, I was an Algorithm Engineer at Shanghai UEG Medi
 
 I earned my Ph.D. in Optical Engineering from Chongqing University in 2019 under the supervision of Prof. Biao Wei. During my doctoral studies, I was a visiting Ph.D. student at The University of Texas MD Anderson Cancer Center, where I had the privilege of collaborating with [Prof. Sang Hyun Cho](https://faculty.mdanderson.org/profiles/sang_cho.html) from 2016 to 2018. My graduate research primarily focused on X-ray Fluorescence Computed Tomography (XFCT).
 
-You can find my CV here [Luzhen Deng's Curriculum Viate](<a href="https://luzhen-deng.github.io/luzhendeng.github.io/assets/Curriculum Viate-Luzhen Deng 2025.pdf">PDF</a>)
+You can find my CV here <a href="https://luzhen-deng.github.io/luzhendeng.github.io/assets/Curriculum Viate-Luzhen Deng 2025.pdf">Luzhen Deng's Curriculum Viate</a>
 
 Contact Information
 ======
